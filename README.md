@@ -1,2 +1,2 @@
-# Hwllow-github
-hellow bithub
+# Hellow-github
+learning how to use github
